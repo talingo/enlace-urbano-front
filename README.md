@@ -1,5 +1,6 @@
-<div align="center"><img src="src/assets/readme-imgs/logoWhite.svg" width="400"/></div>
+
 Link to the Backend :point_right: https://github.com/talingo/enlace-urbano-back
+<div align="center"><img src="src/assets/readme-imgs/logoWhite.svg" width="400"/></div>
 
 ***
 ## Table of Contents
