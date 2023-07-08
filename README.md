@@ -133,6 +133,12 @@ To install and run the frontend of Enlace-Urbano, please follow the steps below:
 
 ***
 
+##Resources
+- <a href="/https://www.figma.com/file/aoPFcVuWOcgze4lybTjNPk/Enlace-Urbano?type=design&node-id=0-1&mode=design>Figma</a>
+- <a href="/https://trello.com/b/ROXwpp6e/scrum-board>Trello</a>
+
+***
+
 ## Team Members
 
 | Name | Role | <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github-Logo"> |
